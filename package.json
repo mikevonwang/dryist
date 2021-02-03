@@ -1,5 +1,5 @@
 {
-  "name": "Dryist",
+  "name": "dryist",
   "version": "0.0.1",
   "description": "Allows you to define constants used in both JS and SCSS files in one place",
   "main": "index.js",
