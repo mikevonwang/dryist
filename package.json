@@ -1,0 +1,25 @@
+{
+  "name": "Dryist",
+  "version": "0.0.1",
+  "description": "Allows you to define constants used in both JS and SCSS files in one place",
+  "main": "index.js",
+  "author": {
+    "name": "Mike Wang",
+    "email": "mikevonwang@gmail.com"
+  },
+  "repository": "github:mikevonwang/dryist",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "keywords": [
+    "scss"
+  ]
+}
